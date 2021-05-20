@@ -1,4 +1,4 @@
-# MalwareAnalysis
+# WannacryAnalysis 
 Analysis of Wannacry for NP REM and MATT Assignments
 
 ![img](https://github.com/RyanNgCT/MalwareAnalysis/blob/main/Wana_Decrypt0r_screenshot.png)
