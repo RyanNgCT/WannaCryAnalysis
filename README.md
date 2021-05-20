@@ -1,11 +1,11 @@
 # MalwareAnalysis
 Analysis of Wannacry for NP REM and MATT Assignments
 
-Reports Available in this repo. Links below are to VirusTotal Pages. Official download links are in Report. 
+Reports Available in this repo. Links below for samples are to VirusTotal Pages. Official download links are in the reports. 
 
 ***Warning: Please proceed with care (recommended to be in a virtual environment for step replication.***
 
-**Disclaimer: Information presented in the report is based on our limited time of 2 to 3 weeks in investigating the samples. For corrections, please open an [issue](https://github.com/RyanNgCT/MalwareAnalysis/issues).**
+**Disclaimer: Information presented in the reports are based on our limited time of 2 to 3 weeks in investigating the samples. For corrections, please open an [issue](https://github.com/RyanNgCT/MalwareAnalysis/issues).**
 
 * [REM Report (Advanced Static and Dynamic Analysis)](https://github.com/RyanNgCT/MalwareAnalysis/blob/main/REM%20Report_Ryan%20NG_Zhe%20Yu%20CHUA.pdf)
 * [MATT Report (Basic Static and Dynamic Analysis)](https://github.com/RyanNgCT/MalwareAnalysis/blob/main/MATT%20Report_Ryan%20NG_Zhe%20Yu%20CHUA.pdf)
