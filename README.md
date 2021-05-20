@@ -1,6 +1,12 @@
 # MalwareAnalysis
 Analysis of Wannacry for NP REM and MATT Assignments
 
+![img](https://github.com/RyanNgCT/MalwareAnalysis/blob/main/Wana_Decrypt0r_screenshot.png)
+
+*Source: Wikipedia*
+
+## Analysis & Reporting
+
 Reports Available in this repo. Links below for samples are to VirusTotal Pages. Official download links are in the reports. 
 
 ***Warning: Please proceed with care (recommended to be in a virtual environment for step replication.***
