@@ -21,5 +21,5 @@ Reports Available in this repo. Links below are to VirusTotal Pages. Official do
 
 ## Contributors
 
-[@RyanNgCT](https://github.com/RyanNgCT)
-[@ZTChua02](https://github.com/ZYChua02)
+* [@RyanNgCT](https://github.com/RyanNgCT)
+* [@ZYChua02](https://github.com/ZYChua02)
