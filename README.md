@@ -9,7 +9,7 @@ Analysis of Wannacry for NP REM and MATT Assignments
 
 Reports Available in this repo. Links below for samples are to VirusTotal Pages. Official download links are in the reports. 
 
-***Warning: Please proceed with care (recommended to be in a virtual environment for step replication.***
+***Warning: Please proceed with care (recommended to be in a virtual environment for replication). Proceed with caution. This repo is not liable for any harm caused to any computer system!***
 
 **Disclaimer: Information presented in the reports are based on our limited time of 2 to 3 weeks in investigating the samples. For corrections, please open an [issue](https://github.com/RyanNgCT/MalwareAnalysis/issues).**
 
